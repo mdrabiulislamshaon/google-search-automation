@@ -411,15 +411,11 @@ Automate Google searches in Java based on predefined keywords. Extract longest &
 </ol>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>Part -2:</span></strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>&nbsp;By following these suggestions and leveraging the capabilities of Selenium WebDriver and Apache POI, you can develop an effective solution for automating Google searches and extracting data using Java.</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>To address the problem of automating Google searches and extracting data using Java, follow these steps along with the suggested URLs:</span></p>
-<ol style="list-style-type: decimal;">
-    <li><strong><span style="font-size:16px;">Install Java Environment:</span></strong></li>
-</ol>
+<p><strong><span style="font-size:16px;">1. Install Java Environment:</span></strong></p>
 <ul style="list-style-type: disc;margin-left:0.25in;">
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Download and install the Java Development Kit (JDK) from the official Oracle website:&nbsp;</span><a href="https://www.oracle.com/java/technologies/downloads/"><span style='line-height:107%;font-family:"Times New Roman",serif;font-family:"Times New Roman",serif;font-size:12.0pt;'>Java SE Downloads.</span></a></li>
 </ul>
-<ol style="list-style-type: undefined;">
-    <li><strong><span style="font-size:16px;">Install Java IDE:</span></strong></li>
-</ol>
+<p><strong><span style="font-size:16px;">2. Install Java IDE:</span></strong></p>
 <ul style="list-style-type: disc;margin-left:0.25in;">
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Choose an Integrated Development Environment (IDE) for Java development such as Eclipse or IntelliJ IDEA.</span>
         <ol style="list-style-type: circle;">
@@ -429,16 +425,12 @@ Automate Google searches in Java based on predefined keywords. Extract longest &
         </ol>
     </li>
 </ul>
-<ol style="list-style-type: undefined;">
-    <li><strong><span style="font-size:16px;">Selenium Jar File and Chrome Driver:</span></strong></li>
-</ol>
+<p><strong><span style="font-size:16px;">3. Selenium Jar File and Chrome Driver:</span></strong></p>
 <ul style="list-style-type: disc;margin-left:0.25in;">
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Download the Selenium WebDriver Java language bindings (JAR file) from the SeleniumHQ website:&nbsp;</span><a href="https://www.selenium.dev/downloads/"><span style='line-height:107%;font-family:"Times New Roman",serif;font-family:"Times New Roman",serif;font-size:12.0pt;'>SeleniumHQ Downloads.</span></a></li>
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Download the ChromeDriver executable that is compatible with your Chrome browser version from the ChromeDriver website:&nbsp;</span><a href="https://chromedriver.chromium.org/downloads"><span style='font-family:"Times New Roman",serif;font-family:"Times New Roman",serif;font-size:16px;'>ChromeDriver Downloads.</span></a></li>
 </ul>
-<ol style="list-style-type: undefined;">
-    <li><strong><span style="font-size:16px;">Libraries:</span></strong></li>
-</ol>
+<p><strong><span style="font-size:16px;">4. Libraries:</span></strong></p>
 <ul style="list-style-type: disc;margin-left:0.25in;">
     <li><strong><span style="font-size:16px;">Apache POI Bin:</span></strong><span style='line-height:107%;font-family:"Times New Roman",serif;font-family:"Times New Roman",serif;font-size:12.0pt;'>&nbsp;Download the Apache POI binary distribution from the Apache POI website:&nbsp;</span><a href="https://poi.apache.org/download.html"><span style='line-height:107%;font-family:"Times New Roman",serif;font-family:"Times New Roman",serif;font-size:12.0pt;'>Apache POI Downloads</span></a><span style='font-family:"Times New Roman",serif;'>.</span></li>
     <li><strong><span style="font-size:16px;">Apache XMLBeans:</span></strong><span style='line-height:107%;font-family:"Times New Roman",serif;font-family:"Times New Roman",serif;font-size:12.0pt;'>&nbsp;You can find&nbsp;</span><a href="https://xmlbeans.apache.org/download/"><span style='font-family:"Times New Roman",serif;font-family:"Times New Roman",serif;font-size:16px;'>XMLBeans</span></a><span style='line-height:107%;font-family:"Times New Roman",serif;font-family:"Times New Roman",serif;font-size:12.0pt;'>&nbsp;in the Apache POI distribution.</span></li>
@@ -448,44 +440,32 @@ Automate Google searches in Java based on predefined keywords. Extract longest &
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Use the Selenium WebDriver API to control the browser and interact with web elements on the Google search page. Utilize Apache POI to read and write data to Excel files for storing the search results.</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>By following these steps and using the provided URLs, you can set up your development environment and begin implementing the solution to automate Google searches and data extraction using Java.</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;text-align:justify;'><strong><u><span style='font-size:16px;font-family:"Times New Roman",serif;'>SHORTCUT LEARN:</span></u></strong></p>
-<ol style="list-style-type: decimal;">
-    <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Connecting to WebDriver:</span></li>
-</ol>
+<p><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'><strong>1. Connecting to WebDriver:</strong></span></p>
 <ul style="list-style-type: disc;margin-left:0.25in;">
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Set up WebDriver to automate browser interactions.</span></li>
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Use Selenium WebDriver to establish a connection with the browser.</span></li>
 </ul>
-<ol style="list-style-type: undefined;">
-    <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Automating Google Search with WebDriver:</span></li>
-</ol>
+<p><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'><strong>2. Automating Google Search with WebDriver:</strong></span></p>
 <ul style="list-style-type: disc;margin-left:0.25in;">
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Utilize WebDriver to navigate to Google&apos;s search page.</span></li>
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Automate search queries using WebDriver&apos;s methods.</span></li>
 </ul>
-<ol style="list-style-type: undefined;">
-    <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Connecting to Excel Sheet:</span></li>
-</ol>
+<p><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'><strong>3. Connecting to Excel Sheet:</strong></span></p>
 <ul style="list-style-type: disc;margin-left:0.25in;">
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Set up connection to an Excel sheet using Apache POI.</span></li>
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Initialize and configure Apache POI to read and write data from/to Excel.</span></li>
 </ul>
-<ol style="list-style-type: undefined;">
-    <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Writing Data to Excel Sheet:</span></li>
-</ol>
+<p><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'><strong>4. Writing Data to Excel Sheet:</strong></span></p>
 <ul style="list-style-type: disc;margin-left:0.25in;">
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Use Apache POI to write data from Google search results to the Excel sheet.</span></li>
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Implement methods to input data into specific cells in the Excel sheet.</span></li>
 </ul>
-<ol style="list-style-type: undefined;">
-    <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Reading Data from Excel Sheet:</span></li>
-</ol>
+<p><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'><strong>5. Reading Data from Excel Sheet:</strong></span></p>
 <ul style="list-style-type: disc;margin-left:0.25in;">
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Utilize Apache POI to read data from the Excel sheet.</span></li>
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Implement methods to extract data from specific cells in the Excel sheet.</span></li>
 </ul>
-<ol style="list-style-type: undefined;">
-    <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Implementing All Steps in a For Loop:</span></li>
-</ol>
+<p><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'><strong>6. Implementing All Steps in a For Loop:</strong></span></p>
 <ul style="list-style-type: disc;margin-left:0.25in;">
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Integrate all five steps into a for loop to automate the process for multiple search queries.</span></li>
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;line-height:107%;'>Loop through a list of search queries, perform Google searches, extract data, and write it to the Excel sheet iteratively.</span></li>
@@ -508,3 +488,6 @@ Automate Google searches in Java based on predefined keywords. Extract longest &
     <li><a href="https://www.tutorialspoint.com/how-to-use-selenium-webdriver-to-click-google-search"><span style='line-height:107%;font-family:"Times New Roman",serif;font-family:"Times New Roman",serif;font-size:12.0pt;'>https://www.tutorialspoint.com/how-to-use-selenium-webdriver-to-click-google-search</span></a><span style='line-height:107%;font-family:"Times New Roman",serif;font-family:"Times New Roman",serif;font-size:12.0pt;'>&nbsp;</span></li>
     <li><a href="https://www.techlistic.com/2019/07/automate-google-with-selenium.html"><span style='line-height:107%;font-family:"Times New Roman",serif;font-family:"Times New Roman",serif;font-size:12.0pt;'>https://www.techlistic.com/2019/07/automate-google-with-selenium.html</span></a><span style='line-height:107%;font-family:"Times New Roman",serif;font-family:"Times New Roman",serif;font-size:12.0pt;'>&nbsp;</span></li>
 </ol>
+<div id="gtx-trans" style="position: absolute; left: -33px; top: 2193px;">
+    <div class="gtx-trans-icon"></div>
+</div>
