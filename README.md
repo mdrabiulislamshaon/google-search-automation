@@ -1,8 +1,7 @@
 # google-search-automation
 Automate Google searches in Java based on predefined keywords. Extract longest &amp; shortest suggestions, organize data into Excel sheets. Handles multiple tabs for data segregation. Includes documentation &amp; code comments for clarity &amp; maintainability.
 
-<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><strong><u><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>PROBLEM:&nbsp;</span></u></strong></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span><strong><u><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>PROBLEM:&nbsp;</span></u></strong></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>&ldquo;Design and implement a Java program that automates the process of conducting Google searches based on a list of predefined keywords. The program should extract the longest and shortest suggestions provided by Google for each keyword and organize the data into an Excel sheet. Additionally, ensure the program is capable of handling multiple tabs representing different days of the week for data segregation. Please provide the necessary documentation and code comments for clarity and maintainability.&rdquo;</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><strong><u><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>HINTS:</span></u></strong></p>
@@ -176,8 +175,7 @@ Automate Google searches in Java based on predefined keywords. Extract longest &
         </tr>
     </tbody>
 </table>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>6. This Excel Sheet have Multiple Tabs like</span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>6. This Excel Sheet have Multiple Tabs like</span></p>
 <table style="width:100.0%;border-collapse:collapse;border:none;">
     <tbody>
         <tr>
@@ -202,8 +200,7 @@ Automate Google searches in Java based on predefined keywords. Extract longest &
         </tr>
     </tbody>
 </table>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>7. We have to write a script which will-</span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>7. We have to write a script which will-</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>a. First Take Data according to &ldquo;Date&rdquo;&nbsp;</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>b. Means if today is Monday it will deal with Monday Data&nbsp;</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>8. When it goes to Monday It will find Keywords list</span></p>
@@ -393,8 +390,7 @@ Automate Google searches in Java based on predefined keywords. Extract longest &
         </tr>
     </tbody>
 </table>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>11. The longest and shortest option will be put in the excel file.</span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>11. The longest and shortest option will be put in the excel file.</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><strong><u><span style='font-size:16px;font-family:"Times New Roman",serif;'>SUGGESTIONS:</span></u></strong></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>Part 1:</span></strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>&nbsp;Here are some suggestions to solve the problem and extracting data using Java:</span></p>
@@ -418,7 +414,6 @@ Automate Google searches in Java based on predefined keywords. Extract longest &
 </ol>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>Part -2:</span></strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>&nbsp;By following these suggestions and leveraging the capabilities of Selenium WebDriver and Apache POI, you can develop an effective solution for automating Google searches and extracting data using Java.</span></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>To address the problem of automating Google searches and extracting data using Java, follow these steps along with the suggested URLs:</span></p>
 <ol style="list-style-type: decimal;">
